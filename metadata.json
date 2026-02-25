@@ -1,0 +1,8 @@
+{
+  "name": "word-doc-creator-skill",
+  "version": "1.0.0",
+  "description": "Word document creation skill with letterhead template support",
+  "author": "Larry G. Maguire",
+  "license": "MIT",
+  "repository": "larrygmaguire/word-doc-creator-skill"
+}
